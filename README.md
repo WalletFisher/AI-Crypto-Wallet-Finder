@@ -4,7 +4,7 @@ WalletFisher - AI Crypto Wallet Finder
 
 **Extract all files into a folder.
 
-**Run AI Crypto Wallet Findee.exe
+**Run AI Crypto Wallet Finder.exe
 
 
 ** [Official Website](https://walletfisher.com)
