@@ -27,6 +27,10 @@ WalletFisher - AI Crypto Wallet Finder
     \_/\_/     \__,_| |_| |_|  \___|  \__| |_|     |_| |___/ |_| |_|  \___| |_|   
                                                                                   
 
+---
+```
+
+
 UPDATES!
 On 1.7.4 update:
 The software don't require anymore verification of your email.
